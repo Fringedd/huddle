@@ -16,7 +16,7 @@ background-color: hsl(257, 40%, 49%);
     box-sizing: border-box;
 }
 .layer{
-    background-image: url(./images/bg-desktop.svg);
+    background-image: url(bg-desktop.svg);
 background-size: cover;
 background-repeat: no-repeat;
     position: absolute;
@@ -213,7 +213,7 @@ ion-icon {
 
 @media only screen and (min-width: 1300px) {
     .layer{
-        background-image: url(./images/bg-desktop.svg);
+        background-image: url(bg-desktop.svg);
     background-size: cover;
     background-repeat: no-repeat;
         position: absolute;
@@ -253,7 +253,7 @@ ion-icon {
     }
 
     .layer{
-        background-image: url(./images/bg-mobile.svg);
+        background-image: url(bg-mobile.svg);
         background-size: cover;
         background-repeat: no-repeat;
         position: absolute;
